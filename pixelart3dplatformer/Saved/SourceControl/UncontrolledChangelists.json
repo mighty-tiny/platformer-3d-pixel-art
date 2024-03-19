@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Materials/White.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Materials/White1.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Materials/Black.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Materials/Teal.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Materials/Blue.uasset",
+				"C:/Unreal Engine/Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Materials/Dark_Blue.uasset"
 			]
 		}
 	]
