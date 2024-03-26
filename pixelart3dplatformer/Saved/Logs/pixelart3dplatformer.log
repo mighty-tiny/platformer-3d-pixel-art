@@ -1157,3 +1157,452 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.26-17.26.15:895][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2024.03.26-17.26.18:973][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2024.03.26-17.26.32:374][428]LogDerivedDataCache: C:/Users/camer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.154 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 14337 files in 15414 folders with total size 248 MiB.
+[2024.03.26-17.26.49:901][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.26.49:944][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.03.26-17.26.49:949][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.03.26-17.26.49:953][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.26-17.26.49:963][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 142 ms)
+[2024.03.26-17.26.50:158][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.26.50:205][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.26-17.26.50:210][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.26-17.26.50:214][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.03.26-17.26.50:228][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 212 ms)
+[2024.03.26-17.26.50:461][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.26.50:507][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.03.26-17.26.50:511][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.26-17.26.50:516][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.26-17.26.50:528][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 279 ms)
+[2024.03.26-17.26.56:413][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.26.56:469][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.03.26-17.26.56:473][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.26-17.26.56:478][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.26-17.26.56:492][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 358 ms)
+[2024.03.26-17.26.59:115][345]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.26-17.27.00:196][429]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.27.00:286][429]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.27.00:321][431]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.27.04:062][798]LogContentBrowser: Attempting asset rename: NewFolder -> MainMenu
+[2024.03.26-17.27.04:062][798]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.27.06:565][ 30]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.27.06:582][ 30]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.27.06:599][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.27.11:308][495]LogContentBrowser: Attempting asset rename: NewFolder -> PauseMenu
+[2024.03.26-17.27.11:308][495]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.27.15:546][931]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.27.15:564][931]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.27.15:579][932]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.27.17:163][ 83]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.03.26-17.27.17:164][ 83]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.27.31:768][460]LogContentBrowser: Attempting asset rename: NewFolder -> UI_Assets
+[2024.03.26-17.27.35:347][786]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.03.26-17.27.38:010][938]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.26-17.27.38:034][938]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.26-17.27.38:050][938]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.26-17.27.38:086][940]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.26-17.27.41:261][250]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2024.03.26-17.27.41:277][250]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.26-17.27.51:086][180]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.03.26-17.27.51:103][180]LogContentBrowser: Creating deferred item: NewWorld
+[2024.03.26-17.27.51:115][181]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.03.26-17.27.54:512][519]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.03.26-17.27.54:513][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.27.54:513][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.27.54:515][519]LogContentBrowser: End creating deferred item NewWorld
+[2024.03.26-17.28.03:943][459]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.03.26-17.28.05:022][550]LogObjectTools: Deleting 1 worlds: /Game/TeamFolder/UI/MainMenu/NewWorld.NewWorld
+[2024.03.26-17.28.05:022][550]LogObjectTools: Currently 3 active worlds: /Game/TeamFolder/Levels/Level1.Level1, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2024.03.26-17.28.05:035][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.26-17.28.05:955][550]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.26-17.28.05:978][550]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.28.05:978][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.28.05:987][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.26-17.28.05:992][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.26-17.28.05:996][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.03.26-17.28.09:848][885]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.03.26-17.28.09:912][885]LogContentBrowser: Creating deferred item: NewWorld
+[2024.03.26-17.28.09:932][886]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.03.26-17.28.12:289][120]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2024.03.26-17.28.12:289][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.28.12:290][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.28.12:291][120]LogContentBrowser: End creating deferred item NewWorld
+[2024.03.26-17.28.18:990][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.28.19:047][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.26-17.28.19:052][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.26-17.28.19:056][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.26-17.28.19:074][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 443 ms)
+[2024.03.26-17.28.20:162][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.26-17.28.20:166][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.28.20:215][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.03.26-17.28.20:221][815]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005077 seconds
+[2024.03.26-17.28.20:223][815]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.28.20:223][815]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuC7F4428C4E7D420940F4529FA22970CB.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.28.20:228][815]LogFileHelpers: Saving map 'MainMenu' took 0.016
+[2024.03.26-17.28.20:237][815]LogSavePackage: Moving output files for package: /Game/TeamFolder/UI/MainMenu/MainMenu
+[2024.03.26-17.28.20:238][815]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu151BB2DD4E124063570694B27725F6B2.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/UI/MainMenu/MainMenu.uasset'
+[2024.03.26-17.28.20:251][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 529 ms)
+[2024.03.26-17.28.20:254][815]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-17.28.20:254][815]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.28.20:254][815]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TeamFolder/UI/MainMenu/MainMenu.MainMenu
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: ================================================
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: RAM used: 61.08 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.26-17.28.23:505][109]LogShaderCompilers: Display: ================================================
+[2024.03.26-17.29.08:677][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.26-17.29.08:680][302]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.29.08:680][302]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.29.08:680][302]LightingResults: New page: Lighting Build
+[2024.03.26-17.29.08:680][302]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.03.26-17.29.08:700][302]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.29.08:700][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.29.08:701][302]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2024.03.26-17.29.08:702][302]MapCheck: New page: Map Check
+[2024.03.26-17.29.08:702][302]LightingResults: New page: Lighting Build
+[2024.03.26-17.29.08:705][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.29.08:709][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.26-17.29.08:710][302]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.29.08:710][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.29.08:714][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.26-17.29.08:718][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.26-17.29.08:720][302]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.03.26-17.29.08:720][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.29.08:720][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.29.08:720][302]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.29.08:753][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.29.08:758][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.26-17.29.08:761][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.29.08:761][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2024.03.26-17.29.09:852][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.29.09:918][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.26-17.29.09:920][420]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.29.09:920][420]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu4104049B4A88DB0F1CD7C59E5D4CE78B.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.29.09:926][420]LogFileHelpers: Saving map 'MainMenu' took 0.030
+[2024.03.26-17.29.09:942][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 619 ms)
+[2024.03.26-17.29.09:945][420]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.29.09:945][420]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.29.41:559][168]LogContentBrowser: Attempting asset rename: Level1 -> W1_L1
+[2024.03.26-17.29.41:771][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.29.41:771][168]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.26-17.29.41:771][168]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-17.29.41:771][168]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-17.29.41:772][168]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2024.03.26-17.29.41:772][168]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 502 ms)
+[2024.03.26-17.29.44:518][168]LogSlate: Window 'Message' being destroyed
+[2024.03.26-17.29.44:531][168]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Level1
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.03.26-17.29.44:555][168]LogMetaData: Removing '/Game/TeamFolder/Levels/W1_L1.W1_L1_C' ref from Metadata '/Game/TeamFolder/Levels/Level1.PackageMetaData'
+[2024.03.26-17.29.44:555][168]LogMetaData: Removing '/Game/TeamFolder/Levels/W1_L1.SKEL_W1_L1_C' ref from Metadata '/Game/TeamFolder/Levels/Level1.PackageMetaData'
+[2024.03.26-17.29.44:566][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.29.44:616][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.29.44:623][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.26-17.29.44:624][168]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TeamFolder/Levels/W1_L1 does not exist, will not scan.
+[2024.03.26-17.29.44:628][168]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/W1_L1
+[2024.03.26-17.29.44:628][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/W1_L10BC0985444FCAD1F525831AC06277302.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/W1_L1.umap'
+[2024.03.26-17.29.44:641][168]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/F7/QLMHY6FX4UBZ18MGCD9AFP
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/D/U0/C8KW70RJNT4TNJ3616SR3K
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/C/7U/C6661ZVOJZMR8D02QKEPTQ
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/1/HC/YFOEFL8NGCUIZY4IE5N4KS
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/V3/4OL59BWX7B3QWAPFNPXPJB
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/BM/KTAKR0Q65NO94STBM4WMZ0
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/8/IX/P0MQSTZDXHRW0KU5GGWFCA
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/KR/9ZIKWPB8W62QU5WL604LMB
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/B/GV/1BF0BLALEVG2U07BIQ4L70
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/OZ/IBST3NUMK8WQDBFSL1T3PM
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/AU/SYL87EL5H6U1J4KQZZ4P14
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/K8/HG3VLM2UB8XHO8RWDRC933
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/TF/Y2R28HFMKRAIQIBQ7JE4I9
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/2/0G/7C6O5JWIM5A6M6CHBH0CJ4
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/ZJ/O4QM4TM08EBI1OIGWIA9VL
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/RA/8F0UIPWZFJFEQXGN1A7R88
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/Q9/V7DC6C0GSZ5RO2LLG0KFEY
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/0/FY/WCXDCT2J4DJROTLNBOJ1SJ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/MI/VRUUNQDSC7SEXBFTOQXHUE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/8/MB/BXZA9YU4AGQM23TM0DVKLQ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/A/5K/T4J9NDJ2KQU9YCLHN1HCVG
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/A/58/ERR2W0XGTZ5SWU1A3H027Y
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/2/5P/3FY0TX90SYEJNPI71Z11JL
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/3/CW/08DU4BXKH71FKKGN19A1BE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/4U/143AY2WPB9ZEW6O91NO2CV
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/YU/FSMBVHQX5GWYI2FOVH5NAQ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/E/V3/UZ1114ZLKHOISE56KS2RZH
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/SM/CR83POI23J1G1KXLRN2931
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/5/2X/5MG09IPJA0W1GOK7ZSYRSW
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/HQ/OPZ7KZB0T3I7ITVA0818VI
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/00/DG3SIATZWE5Q01TO15V2HZ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/BG/Q2I107HQK89XBQU2A644KE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/ZS/A850PTMAF10OUE2W1UCM1P
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/B/U1/LFG54ORK4FKW46VCD96B5V
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/UC/ERGO6BDTEZT2EVICBTYVZL
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/8/PU/8Z138CYEA9B0K00MTPK6PX
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/90/U5HT0OADK5V7ZASTQOZ7EP
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/C/CP/07ASQU8NEN7YET4FDLSW6N
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/0/QV/MR9PNG56T25WLPLGGD3LFV
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/TR/QPBR63Y8BCXOKAICBEOZYV
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/T9/W3I9KBRQYEY78EN1AQ2MQM
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/HD/8KL20ZZ6GTBW5GUKO73139
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/19/TTGQCSFJGKESSTNO6NMIPE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/AE/7XMDF0IGL8NBS1S9V32PVH
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/PD/XIR2670KA7A4YZR66F8ZSI
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/E/7L/848J3KABHC2XG8AM9592LK
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/9N/55BNO893V2KRC10QGOKWVN
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/C/K1/JUDO7F0TFN4C2AYXY855X7
+[2024.03.26-17.29.44:642][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.29.44:643][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/F7/QLMHY6FX4UBZ18MGCD9AFP
+[2024.03.26-17.29.44:643][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/QLMHY6FX4UBZ18MGCD9AFP28D0200741B76F945EB232A5BEBB6F84.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/6/F7/QLMHY6FX4UBZ18MGCD9AFP.uasset'
+[2024.03.26-17.29.44:645][168]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/D/U0/C8KW70RJNT4TNJ3616SR3K
+[2024.03.26-17.29.44:645][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/C8KW70RJNT4TNJ3616SR3K136D8EDF453E916EBBD1D093A818DB31.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalObjects__/TeamFolder/Levels/W1_L1/D/U0/C8KW70RJNT4TNJ3616SR3K.uasset'
+[2024.03.26-17.29.44:648][168]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/C/7U/C6661ZVOJZMR8D02QKEPTQ
+[2024.03.26-17.29.44:648][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/C6661ZVOJZMR8D02QKEPTQ398D07EE4FD090271319B1853690A5EA.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalObjects__/TeamFolder/Levels/W1_L1/C/7U/C6661ZVOJZMR8D02QKEPTQ.uasset'
+[2024.03.26-17.29.44:650][168]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/1/HC/YFOEFL8NGCUIZY4IE5N4KS
+[2024.03.26-17.29.44:650][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/YFOEFL8NGCUIZY4IE5N4KS82F9035E4C1DF1DCBBB194898F6A306E.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalObjects__/TeamFolder/Levels/W1_L1/1/HC/YFOEFL8NGCUIZY4IE5N4KS.uasset'
+[2024.03.26-17.29.44:652][168]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/V3/4OL59BWX7B3QWAPFNPXPJB
+[2024.03.26-17.29.44:652][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/4OL59BWX7B3QWAPFNPXPJB5ACDF4FE4384858B98224FA313020FCE.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/V3/4OL59BWX7B3QWAPFNPXPJB.uasset'
+[2024.03.26-17.29.44:654][168]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/BM/KTAKR0Q65NO94STBM4WMZ0
+[2024.03.26-17.29.44:654][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/KTAKR0Q65NO94STBM4WMZ0B132179F46A83FF2CE58BD829EE148FF.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/BM/KTAKR0Q65NO94STBM4WMZ0.uasset'
+[2024.03.26-17.29.44:657][168]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/8/IX/P0MQSTZDXHRW0KU5GGWFCA
+[2024.03.26-17.29.44:657][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/P0MQSTZDXHRW0KU5GGWFCA55B7E5334D313B1275AF60AF3B59BDC5.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalObjects__/TeamFolder/Levels/W1_L1/8/IX/P0MQSTZDXHRW0KU5GGWFCA.uasset'
+[2024.03.26-17.29.44:660][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/KR/9ZIKWPB8W62QU5WL604LMB
+[2024.03.26-17.29.44:660][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/9ZIKWPB8W62QU5WL604LMBD12F537D448D28BF1836D08A1E06CE45.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/7/KR/9ZIKWPB8W62QU5WL604LMB.uasset'
+[2024.03.26-17.29.44:662][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/B/GV/1BF0BLALEVG2U07BIQ4L70
+[2024.03.26-17.29.44:662][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/1BF0BLALEVG2U07BIQ4L70EF21279C41A7F988A10CC2919E408503.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/B/GV/1BF0BLALEVG2U07BIQ4L70.uasset'
+[2024.03.26-17.29.44:665][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/OZ/IBST3NUMK8WQDBFSL1T3PM
+[2024.03.26-17.29.44:665][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/IBST3NUMK8WQDBFSL1T3PMA357A297499FE17097F625B39944DA5A.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/6/OZ/IBST3NUMK8WQDBFSL1T3PM.uasset'
+[2024.03.26-17.29.44:667][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/AU/SYL87EL5H6U1J4KQZZ4P14
+[2024.03.26-17.29.44:667][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/SYL87EL5H6U1J4KQZZ4P1407DC27714D416051090873ADC7E1CB1D.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/6/AU/SYL87EL5H6U1J4KQZZ4P14.uasset'
+[2024.03.26-17.29.44:669][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/K8/HG3VLM2UB8XHO8RWDRC933
+[2024.03.26-17.29.44:669][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/HG3VLM2UB8XHO8RWDRC93367D8F4E24B7227B32AEEC9B9A6FD395D.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/4/K8/HG3VLM2UB8XHO8RWDRC933.uasset'
+[2024.03.26-17.29.44:672][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/TF/Y2R28HFMKRAIQIBQ7JE4I9
+[2024.03.26-17.29.44:672][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/Y2R28HFMKRAIQIBQ7JE4I9B5EFF13A458602B8758A3EA2A7FA1745.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/6/TF/Y2R28HFMKRAIQIBQ7JE4I9.uasset'
+[2024.03.26-17.29.44:674][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/2/0G/7C6O5JWIM5A6M6CHBH0CJ4
+[2024.03.26-17.29.44:674][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/7C6O5JWIM5A6M6CHBH0CJ40DD473464BB4603C3EADFEB580C9E3BB.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/2/0G/7C6O5JWIM5A6M6CHBH0CJ4.uasset'
+[2024.03.26-17.29.44:676][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/ZJ/O4QM4TM08EBI1OIGWIA9VL
+[2024.03.26-17.29.44:676][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/O4QM4TM08EBI1OIGWIA9VL3CDB1FF54C22DBFB94F6D18B798C4636.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/D/ZJ/O4QM4TM08EBI1OIGWIA9VL.uasset'
+[2024.03.26-17.29.44:679][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/RA/8F0UIPWZFJFEQXGN1A7R88
+[2024.03.26-17.29.44:680][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/8F0UIPWZFJFEQXGN1A7R886D50479B453D6DDA310DDCB0E046D029.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/1/RA/8F0UIPWZFJFEQXGN1A7R88.uasset'
+[2024.03.26-17.29.44:681][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/Q9/V7DC6C0GSZ5RO2LLG0KFEY
+[2024.03.26-17.29.44:681][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/V7DC6C0GSZ5RO2LLG0KFEY4ED1FEC84EF8DFA8F0CD3A90F153B58C.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/6/Q9/V7DC6C0GSZ5RO2LLG0KFEY.uasset'
+[2024.03.26-17.29.44:684][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/0/FY/WCXDCT2J4DJROTLNBOJ1SJ
+[2024.03.26-17.29.44:684][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/WCXDCT2J4DJROTLNBOJ1SJABEAAC0D4F752B2395A3F996C5609F96.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/0/FY/WCXDCT2J4DJROTLNBOJ1SJ.uasset'
+[2024.03.26-17.29.44:686][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/MI/VRUUNQDSC7SEXBFTOQXHUE
+[2024.03.26-17.29.44:687][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/VRUUNQDSC7SEXBFTOQXHUE3AE14C0445CA411690464195DD71046B.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/1/MI/VRUUNQDSC7SEXBFTOQXHUE.uasset'
+[2024.03.26-17.29.44:689][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/8/MB/BXZA9YU4AGQM23TM0DVKLQ
+[2024.03.26-17.29.44:689][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/BXZA9YU4AGQM23TM0DVKLQ008ED33543001E02800842974E4DD8EC.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/8/MB/BXZA9YU4AGQM23TM0DVKLQ.uasset'
+[2024.03.26-17.29.44:693][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/A/5K/T4J9NDJ2KQU9YCLHN1HCVG
+[2024.03.26-17.29.44:693][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/T4J9NDJ2KQU9YCLHN1HCVGDEC1DF1A49E0135124B4A888EDEA3696.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/A/5K/T4J9NDJ2KQU9YCLHN1HCVG.uasset'
+[2024.03.26-17.29.44:695][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/A/58/ERR2W0XGTZ5SWU1A3H027Y
+[2024.03.26-17.29.44:695][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/ERR2W0XGTZ5SWU1A3H027Y40615A3B4F04A4C1A10B2F888B913D61.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/A/58/ERR2W0XGTZ5SWU1A3H027Y.uasset'
+[2024.03.26-17.29.44:698][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/2/5P/3FY0TX90SYEJNPI71Z11JL
+[2024.03.26-17.29.44:698][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/3FY0TX90SYEJNPI71Z11JL1D2A21CA4A58D77CDD1FE29893FD0A42.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/2/5P/3FY0TX90SYEJNPI71Z11JL.uasset'
+[2024.03.26-17.29.44:700][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/3/CW/08DU4BXKH71FKKGN19A1BE
+[2024.03.26-17.29.44:700][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/08DU4BXKH71FKKGN19A1BEA4ADC9B74BEA88853952D8AF90BAE18D.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/3/CW/08DU4BXKH71FKKGN19A1BE.uasset'
+[2024.03.26-17.29.44:702][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/4U/143AY2WPB9ZEW6O91NO2CV
+[2024.03.26-17.29.44:702][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/143AY2WPB9ZEW6O91NO2CV119FA99A47D4AD034F8D94A1D3A12EA0.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/6/4U/143AY2WPB9ZEW6O91NO2CV.uasset'
+[2024.03.26-17.29.44:704][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/YU/FSMBVHQX5GWYI2FOVH5NAQ
+[2024.03.26-17.29.44:704][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/FSMBVHQX5GWYI2FOVH5NAQE6C51EB84C2597C82A6D22909A7D04AF.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/1/YU/FSMBVHQX5GWYI2FOVH5NAQ.uasset'
+[2024.03.26-17.29.44:706][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/E/V3/UZ1114ZLKHOISE56KS2RZH
+[2024.03.26-17.29.44:706][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/UZ1114ZLKHOISE56KS2RZH85B3045E400C3EB5F9562981B67A62B5.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/E/V3/UZ1114ZLKHOISE56KS2RZH.uasset'
+[2024.03.26-17.29.44:709][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/SM/CR83POI23J1G1KXLRN2931
+[2024.03.26-17.29.44:709][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/CR83POI23J1G1KXLRN293127430AFD430CAA6057CF52B2CE3A234D.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/9/SM/CR83POI23J1G1KXLRN2931.uasset'
+[2024.03.26-17.29.44:711][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/5/2X/5MG09IPJA0W1GOK7ZSYRSW
+[2024.03.26-17.29.44:711][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/5MG09IPJA0W1GOK7ZSYRSW4E47D18E433D74695A528AA891E46943.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/5/2X/5MG09IPJA0W1GOK7ZSYRSW.uasset'
+[2024.03.26-17.29.44:715][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/HQ/OPZ7KZB0T3I7ITVA0818VI
+[2024.03.26-17.29.44:715][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/OPZ7KZB0T3I7ITVA0818VI864EED9445B48F2F406E9D994A897FAB.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/D/HQ/OPZ7KZB0T3I7ITVA0818VI.uasset'
+[2024.03.26-17.29.44:717][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/00/DG3SIATZWE5Q01TO15V2HZ
+[2024.03.26-17.29.44:717][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/DG3SIATZWE5Q01TO15V2HZ58E4B42F44A4358DB5E0BDBCF717FD22.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/D/00/DG3SIATZWE5Q01TO15V2HZ.uasset'
+[2024.03.26-17.29.44:718][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/BG/Q2I107HQK89XBQU2A644KE
+[2024.03.26-17.29.44:718][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/Q2I107HQK89XBQU2A644KEB205CDFF44976CD92FABFDAE485A031E.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/4/BG/Q2I107HQK89XBQU2A644KE.uasset'
+[2024.03.26-17.29.44:721][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/ZS/A850PTMAF10OUE2W1UCM1P
+[2024.03.26-17.29.44:721][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/A850PTMAF10OUE2W1UCM1P340541FA4777ADFCC689D3AFA3BE5E98.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/7/ZS/A850PTMAF10OUE2W1UCM1P.uasset'
+[2024.03.26-17.29.44:725][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/B/U1/LFG54ORK4FKW46VCD96B5V
+[2024.03.26-17.29.44:725][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/LFG54ORK4FKW46VCD96B5VEAEF1C9C413AB694389524A781619D11.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/B/U1/LFG54ORK4FKW46VCD96B5V.uasset'
+[2024.03.26-17.29.44:727][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/UC/ERGO6BDTEZT2EVICBTYVZL
+[2024.03.26-17.29.44:727][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/ERGO6BDTEZT2EVICBTYVZL0D0E53AF41FA1CD2E2F671A5040954E8.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/4/UC/ERGO6BDTEZT2EVICBTYVZL.uasset'
+[2024.03.26-17.29.44:729][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/8/PU/8Z138CYEA9B0K00MTPK6PX
+[2024.03.26-17.29.44:730][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/8Z138CYEA9B0K00MTPK6PXC015F4214E32EBADCE86B8976FEED11A.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/8/PU/8Z138CYEA9B0K00MTPK6PX.uasset'
+[2024.03.26-17.29.44:731][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/90/U5HT0OADK5V7ZASTQOZ7EP
+[2024.03.26-17.29.44:731][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/U5HT0OADK5V7ZASTQOZ7EP5837D9074D0AE5B809966BB30EC65C93.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/9/90/U5HT0OADK5V7ZASTQOZ7EP.uasset'
+[2024.03.26-17.29.44:733][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/C/CP/07ASQU8NEN7YET4FDLSW6N
+[2024.03.26-17.29.44:733][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/07ASQU8NEN7YET4FDLSW6N944E6FCC407A40DF5FB00DBE57863BAF.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/C/CP/07ASQU8NEN7YET4FDLSW6N.uasset'
+[2024.03.26-17.29.44:736][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/0/QV/MR9PNG56T25WLPLGGD3LFV
+[2024.03.26-17.29.44:736][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MR9PNG56T25WLPLGGD3LFVE5295788427D629FEADC67BA7C4FC954.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/0/QV/MR9PNG56T25WLPLGGD3LFV.uasset'
+[2024.03.26-17.29.44:738][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/TR/QPBR63Y8BCXOKAICBEOZYV
+[2024.03.26-17.29.44:739][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/QPBR63Y8BCXOKAICBEOZYVC5274AA149BDD5D0CCF784B854332A4C.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/1/TR/QPBR63Y8BCXOKAICBEOZYV.uasset'
+[2024.03.26-17.29.44:741][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/T9/W3I9KBRQYEY78EN1AQ2MQM
+[2024.03.26-17.29.44:741][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/W3I9KBRQYEY78EN1AQ2MQM868E820E42F30D1E04374CA0433E2464.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/9/T9/W3I9KBRQYEY78EN1AQ2MQM.uasset'
+[2024.03.26-17.29.44:743][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/HD/8KL20ZZ6GTBW5GUKO73139
+[2024.03.26-17.29.44:743][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/8KL20ZZ6GTBW5GUKO73139DB2456834BD316FEBE1C2CB11B7CBEB9.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/4/HD/8KL20ZZ6GTBW5GUKO73139.uasset'
+[2024.03.26-17.29.44:745][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/19/TTGQCSFJGKESSTNO6NMIPE
+[2024.03.26-17.29.44:746][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/TTGQCSFJGKESSTNO6NMIPED70DDCC14B440D5B12E04A941A7D6725.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/7/19/TTGQCSFJGKESSTNO6NMIPE.uasset'
+[2024.03.26-17.29.44:748][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/AE/7XMDF0IGL8NBS1S9V32PVH
+[2024.03.26-17.29.44:748][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/7XMDF0IGL8NBS1S9V32PVHC6C741D14F49A2E927B09888EB275789.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/D/AE/7XMDF0IGL8NBS1S9V32PVH.uasset'
+[2024.03.26-17.29.44:750][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/PD/XIR2670KA7A4YZR66F8ZSI
+[2024.03.26-17.29.44:750][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/XIR2670KA7A4YZR66F8ZSI142B44EA427F2DA7BCE40794D268F963.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/7/PD/XIR2670KA7A4YZR66F8ZSI.uasset'
+[2024.03.26-17.29.44:753][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/E/7L/848J3KABHC2XG8AM9592LK
+[2024.03.26-17.29.44:753][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/848J3KABHC2XG8AM9592LK0C03988D4DAE8A11CCA08B99660088F6.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/E/7L/848J3KABHC2XG8AM9592LK.uasset'
+[2024.03.26-17.29.44:755][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/9N/55BNO893V2KRC10QGOKWVN
+[2024.03.26-17.29.44:756][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/55BNO893V2KRC10QGOKWVN65E16910434AB37F0C10BB843091B572.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/9/9N/55BNO893V2KRC10QGOKWVN.uasset'
+[2024.03.26-17.29.44:758][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TeamFolder/Levels/W1_L1/C/K1/JUDO7F0TFN4C2AYXY855X7
+[2024.03.26-17.29.44:758][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/JUDO7F0TFN4C2AYXY855X7F8D7E72643D00311071E408716415556.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/__ExternalActors__/TeamFolder/Levels/W1_L1/C/K1/JUDO7F0TFN4C2AYXY855X7.uasset'
+[2024.03.26-17.29.44:760][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 738 ms)
+[2024.03.26-17.29.44:763][168]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/F7/QLMHY6FX4UBZ18MGCD9AFP
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/D/U0/C8KW70RJNT4TNJ3616SR3K
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/C/7U/C6661ZVOJZMR8D02QKEPTQ
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/1/HC/YFOEFL8NGCUIZY4IE5N4KS
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/V3/4OL59BWX7B3QWAPFNPXPJB
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/5/BM/KTAKR0Q65NO94STBM4WMZ0
+/Game/__ExternalObjects__/TeamFolder/Levels/W1_L1/8/IX/P0MQSTZDXHRW0KU5GGWFCA
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/KR/9ZIKWPB8W62QU5WL604LMB
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/B/GV/1BF0BLALEVG2U07BIQ4L70
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/OZ/IBST3NUMK8WQDBFSL1T3PM
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/AU/SYL87EL5H6U1J4KQZZ4P14
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/K8/HG3VLM2UB8XHO8RWDRC933
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/TF/Y2R28HFMKRAIQIBQ7JE4I9
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/2/0G/7C6O5JWIM5A6M6CHBH0CJ4
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/ZJ/O4QM4TM08EBI1OIGWIA9VL
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/RA/8F0UIPWZFJFEQXGN1A7R88
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/Q9/V7DC6C0GSZ5RO2LLG0KFEY
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/0/FY/WCXDCT2J4DJROTLNBOJ1SJ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/MI/VRUUNQDSC7SEXBFTOQXHUE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/8/MB/BXZA9YU4AGQM23TM0DVKLQ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/A/5K/T4J9NDJ2KQU9YCLHN1HCVG
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/A/58/ERR2W0XGTZ5SWU1A3H027Y
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/2/5P/3FY0TX90SYEJNPI71Z11JL
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/3/CW/08DU4BXKH71FKKGN19A1BE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/6/4U/143AY2WPB9ZEW6O91NO2CV
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/YU/FSMBVHQX5GWYI2FOVH5NAQ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/E/V3/UZ1114ZLKHOISE56KS2RZH
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/SM/CR83POI23J1G1KXLRN2931
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/5/2X/5MG09IPJA0W1GOK7ZSYRSW
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/HQ/OPZ7KZB0T3I7ITVA0818VI
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/00/DG3SIATZWE5Q01TO15V2HZ
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/BG/Q2I107HQK89XBQU2A644KE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/ZS/A850PTMAF10OUE2W1UCM1P
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/B/U1/LFG54ORK4FKW46VCD96B5V
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/UC/ERGO6BDTEZT2EVICBTYVZL
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/8/PU/8Z138CYEA9B0K00MTPK6PX
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/90/U5HT0OADK5V7ZASTQOZ7EP
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/C/CP/07ASQU8NEN7YET4FDLSW6N
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/0/QV/MR9PNG56T25WLPLGGD3LFV
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/1/TR/QPBR63Y8BCXOKAICBEOZYV
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/T9/W3I9KBRQYEY78EN1AQ2MQM
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/4/HD/8KL20ZZ6GTBW5GUKO73139
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/19/TTGQCSFJGKESSTNO6NMIPE
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/D/AE/7XMDF0IGL8NBS1S9V32PVH
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/7/PD/XIR2670KA7A4YZR66F8ZSI
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/E/7L/848J3KABHC2XG8AM9592LK
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/9/9N/55BNO893V2KRC10QGOKWVN
+/Game/__ExternalActors__/TeamFolder/Levels/W1_L1/C/K1/JUDO7F0TFN4C2AYXY855X7
+[2024.03.26-17.29.44:769][168]LogFileHelpers: Saving map 'W1_L1' took 0.154
+[2024.03.26-17.29.44:771][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeamFolder/Levels/Level1" FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/Level1.umap" SILENT=true
+[2024.03.26-17.29.44:771][168]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/Level1
+[2024.03.26-17.29.44:773][168]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/Level1256528AF4CEE3D851976F3B89CF03472.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/Level1.umap'
+[2024.03.26-17.29.44:785][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 957 ms)
+[2024.03.26-17.29.44:797][168]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/W1_L1.W1_L1
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.WorldDataLayers
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ActorFolder_UID_D075E5BA-49330D3E-C2503D81-A7CF88D1
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ActorFolder_UID_7D23E5AE-4C2A421F-86AF6986-D87E6D05
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ActorFolder_UID_963EC3EB-4002CCE9-759E2EBA-541A873A
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ActorFolder_UID_C73F09FC-4215536B-1DCE2A9E-0A830C70
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.SkyLight_1
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2024.03.26-17.29.44:797][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F5E301_2028828995
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F5E301_1839601992
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F5E301_1735447991
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_15
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F6E301_1172287174
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_19
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_2
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_20
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_18
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_24
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.DirectionalLight_0
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_14
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_35
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_11
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_16
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.SkyAtmosphere_0
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F4E301_1686357815
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_13
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_25
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_3
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F6E301_1123266172
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_21
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_12
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_1
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.PostProcessVolume_0
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.WorldPartitionMiniMap_0
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_7
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_8
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F5E301_1948398993
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.PlayerStart_0
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_22
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.ExponentialHeightFog_0
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_UAID_B42E9944F0A6F6E301_1145829173
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_10
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_34
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_32
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_9
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_33
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TeamFolder/Levels/W1_L1.W1_L1:PersistentLevel.StaticMeshActor_23
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/TeamFolder/Levels/Level1.Level1_C
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/TeamFolder/Levels/Level1.Level1
+[2024.03.26-17.29.44:798][168]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/TeamFolder/Levels/Level1.Default__Level1_C
+[2024.03.26-17.29.47:400][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.29.47:466][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.26-17.29.47:468][473]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.29.47:469][473]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu974585534604BA87574898A3B60B5069.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.29.47:474][473]LogFileHelpers: Saving map 'MainMenu' took 0.031
+[2024.03.26-17.29.47:489][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.04 sec)
+[2024.03.26-17.29.47:490][473]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.29.47:490][473]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.29.47:720][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.29.47:788][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.26-17.29.47:789][495]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.29.47:789][495]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu5BA9BD724649EADAD1789AA7B2971B40.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.29.47:795][495]LogFileHelpers: Saving map 'MainMenu' took 0.030
+[2024.03.26-17.29.47:809][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.13 sec)
+[2024.03.26-17.29.47:810][495]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.29.47:810][495]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.29.48:582][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.26-17.29.48:583][584]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/W1_L1.W1_L1
+[2024.03.26-17.29.48:583][584]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/W1_L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.29.48:583][584]LightingResults: New page: Lighting Build
+[2024.03.26-17.29.48:583][584]LoadErrors: New page: Loading map: W1_L1.umap
+[2024.03.26-17.29.48:600][584]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.29.48:600][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.29.48:601][584]MapCheck: New page: Map Check
+[2024.03.26-17.29.48:601][584]LightingResults: New page: Lighting Build
+[2024.03.26-17.29.48:605][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.29.48:606][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.26-17.29.48:607][584]LogWorld: UWorld::CleanupWorld for W1_L1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.29.48:608][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.29.48:608][584]LogContentBundle: [W1_L1(Standalone)] Deleting container.
+[2024.03.26-17.29.48:613][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.26-17.29.48:616][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.26-17.29.48:623][584]LogAudio: Display: Audio Device (ID: 1) registered with world 'W1_L1'.
+[2024.03.26-17.29.48:623][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.29.48:623][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.29.48:624][584]LogAIModule: Creating AISystem for world W1_L1
+[2024.03.26-17.29.48:624][584]LogWorldPartition: ULevel::OnLevelLoaded(W1_L1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.26-17.29.48:624][584]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-17.29.48:624][584]LogWorldPartition: UWorldPartition::Initialize : World = W1_L1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-17.29.48:649][584]LogContentBundle: [W1_L1(Standalone)] Creating new contrainer.
+[2024.03.26-17.29.48:649][584]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 528 ms)
+[2024.03.26-17.29.48:686][584]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.29.48:692][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.03.26-17.29.48:695][584]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.29.48:696][584]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
