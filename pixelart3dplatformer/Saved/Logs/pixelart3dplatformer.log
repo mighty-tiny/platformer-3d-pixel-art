@@ -1779,3 +1779,386 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.03.26-17.42.08:405][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.35 sec)
 [2024.03.26-17.42.08:406][846]AssetCheck: New page: Asset Save: Settings
 [2024.03.26-17.42.08:406][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/Settings.Settings
+[2024.03.26-17.42.37:378][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.26-17.42.37:420][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.42.37:420][352]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.42.37:420][352]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.42.37:420][352]LightingResults: New page: Lighting Build
+[2024.03.26-17.42.37:421][352]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.03.26-17.42.37:440][352]LogWorld: UWorld::CleanupWorld for W1_L1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.42.37:440][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.42.37:444][352]LogContentBundle: [W1_L1(Standalone)] Deleting container.
+[2024.03.26-17.42.37:444][352]MapCheck: New page: Map Check
+[2024.03.26-17.42.37:445][352]LightingResults: New page: Lighting Build
+[2024.03.26-17.42.37:457][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.42.37:465][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.26-17.42.37:467][352]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.42.37:467][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.42.37:467][352]LogWorld: UWorld::CleanupWorld for Settings, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.42.37:467][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.42.37:480][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.26-17.42.37:492][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.26-17.42.37:494][352]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.03.26-17.42.37:494][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.42.37:494][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.42.37:495][352]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.42.37:530][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.42.37:544][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.26-17.42.37:549][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.42.37:549][352]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2024.03.26-17.42.39:817][600]LogSlate: Took 0.005769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.26-17.42.40:011][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.42.40:760][661]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TeamFolder/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2024.03.26-17.42.40:762][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.42.40:762][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.23:019][695]BlueprintLog: New page: Compile MainMenu
+[2024.03.26-17.43.23:037][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.26-17.43.23:641][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.23:709][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.26-17.43.23:714][756]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.23:714][756]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu1AFD00594B68E508B87BAF94A5B405F2.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.23:720][756]LogFileHelpers: Saving map 'MainMenu' took 0.044
+[2024.03.26-17.43.23:733][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.44 sec)
+[2024.03.26-17.43.23:735][756]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.23:735][756]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.23:939][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.24:005][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.26-17.43.24:009][778]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.24:011][778]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu70DB03B64BAD678E129B57A71685489E.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.24:017][778]LogFileHelpers: Saving map 'MainMenu' took 0.041
+[2024.03.26-17.43.24:027][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.53 sec)
+[2024.03.26-17.43.24:029][778]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.24:029][778]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.24:250][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.24:319][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.26-17.43.24:324][802]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.24:324][802]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu5F8292084F38BBB702F4A8B107D8FF03.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.24:329][802]LogFileHelpers: Saving map 'MainMenu' took 0.040
+[2024.03.26-17.43.24:343][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.62 sec)
+[2024.03.26-17.43.24:344][802]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.24:344][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.24:522][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.24:590][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.26-17.43.24:596][820]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.24:596][820]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuFCBF307A42A3EF93337C9BAB4FCAE2F9.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.24:601][820]LogFileHelpers: Saving map 'MainMenu' took 0.041
+[2024.03.26-17.43.24:619][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.72 sec)
+[2024.03.26-17.43.24:620][820]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.24:620][820]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.29:171][334]LogSlate: Window 'MainMenu' being destroyed
+[2024.03.26-17.43.29:184][334]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.29:185][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.32:123][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.32:207][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.26-17.43.32:213][669]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.32:214][669]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu80DAAE80410A4E73D730BB84E2A2E899.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.32:219][669]LogFileHelpers: Saving map 'MainMenu' took 0.048
+[2024.03.26-17.43.32:230][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.83 sec)
+[2024.03.26-17.43.32:232][669]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.32:232][669]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.32:436][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.32:513][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.03.26-17.43.32:519][688]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.32:520][688]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu76A651F4415D1123F52D9C81FB1DE56F.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.32:526][688]LogFileHelpers: Saving map 'MainMenu' took 0.046
+[2024.03.26-17.43.32:536][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.92 sec)
+[2024.03.26-17.43.32:538][688]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.32:538][688]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.32:733][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.43.32:806][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.26-17.43.32:811][701]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.43.32:811][701]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu79EDA4D740DC9BE8A8DA1296B1F3554E.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.43.32:817][701]LogFileHelpers: Saving map 'MainMenu' took 0.046
+[2024.03.26-17.43.32:829][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.02 sec)
+[2024.03.26-17.43.32:830][701]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.43.32:830][701]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.36:335][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.26-17.43.36:336][109]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.36:336][109]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.43.36:336][109]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.36:336][109]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.03.26-17.43.36:384][109]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.36:384][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.36:384][109]MapCheck: New page: Map Check
+[2024.03.26-17.43.36:384][109]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.36:394][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.43.36:396][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.26-17.43.36:402][109]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.03.26-17.43.36:402][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.36:402][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.36:403][109]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.43.36:435][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.43.36:449][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.26-17.43.36:453][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.43.36:453][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2024.03.26-17.43.38:270][323]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-17.43.38:283][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-17.43.38:284][323]PIE: New page: PIE session: MainMenu (26 Mar 2024, 17:43:38)
+[2024.03.26-17.43.38:291][323]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.03.26-17.43.38:291][323]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.03.26-17.43.38:292][323]LogPlayLevel: Creating play world package: /Game/TeamFolder/Levels/UEDPIE_0_MainMenu
+[2024.03.26-17.43.38:294][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001239s)
+[2024.03.26-17.43.38:294][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamFolder/Levels/MainMenu.MainMenu to /Game/TeamFolder/Levels/UEDPIE_0_MainMenu.MainMenu (0.001288s)
+[2024.03.26-17.43.38:306][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.26-17.43.38:308][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.38:309][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.38:309][323]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.43.38:310][323]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2024.03.26-17.43.38:310][323]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-17.43.38:310][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-17.43.38:310][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-17.43.38:311][323]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-17.43.38:311][323]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-17.43.38:311][323]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-17.43.38:313][323]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-17.43.38:333][323]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2024.03.26-17.43.38:334][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-17.43.38:334][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-17.43.38:334][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-17.43.38:334][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.03.26-17.43.38:334][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.03.26-17.43.38:336][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.03.26-17.43.38:336][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.03.26-17.43.38:336][323]LogInit: FAudioDevice initialized with ID 2.
+[2024.03.26-17.43.38:336][323]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2024.03.26-17.43.38:336][323]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.26-17.43.38:343][323]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-17.43.38:344][323]LogWorld: Bringing World /Game/TeamFolder/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.03.26-17.43.38
+[2024.03.26-17.43.38:345][323]LogWorld: Bringing up level for play took: 0.001591
+[2024.03.26-17.43.38:348][323]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.03.26-17.43.38:378][323]PIE: Server logged in
+[2024.03.26-17.43.38:379][323]PIE: Play in editor total start time 0.101 seconds.
+[2024.03.26-17.43.43:545][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.43.43:545][912]LogWorld: BeginTearingDown for /Game/TeamFolder/Levels/UEDPIE_0_MainMenu
+[2024.03.26-17.43.43:546][912]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.43:547][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.43:551][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-17.43.43:556][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.43:567][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.43.43:568][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.26-17.43.43:570][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.26-17.43.43:572][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.26-17.43.43:581][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.26-17.43.43:745][913]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.03.26-17.43.45:017][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.03.26-17.43.45:019][ 60]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.45:019][ 60]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.43.45:019][ 60]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.45:019][ 60]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.03.26-17.43.45:063][ 60]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.45:063][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.45:063][ 60]MapCheck: New page: Map Check
+[2024.03.26-17.43.45:063][ 60]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.45:075][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.43.45:077][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.26-17.43.45:083][ 60]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.03.26-17.43.45:083][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.45:083][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.45:083][ 60]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.43.45:116][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.43.45:129][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.26-17.43.45:133][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.43.45:133][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2024.03.26-17.43.46:303][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.26-17.43.46:304][195]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.46:305][195]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.43.46:305][195]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.46:305][195]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.03.26-17.43.46:324][195]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.46:324][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.46:324][195]MapCheck: New page: Map Check
+[2024.03.26-17.43.46:324][195]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.46:335][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.43.46:337][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.26-17.43.46:342][195]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.03.26-17.43.46:342][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.46:342][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.46:342][195]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.43.46:374][195]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.43.46:389][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.26-17.43.46:393][195]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.43.46:393][195]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2024.03.26-17.43.47:747][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.26-17.43.47:748][354]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.43.47:749][354]Cmd: MAP LOAD FILE="../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.26-17.43.47:749][354]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.47:749][354]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.03.26-17.43.47:793][354]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.47:793][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.47:793][354]MapCheck: New page: Map Check
+[2024.03.26-17.43.47:793][354]LightingResults: New page: Lighting Build
+[2024.03.26-17.43.47:805][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.43.47:806][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.26-17.43.47:811][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.03.26-17.43.47:811][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.47:811][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.47:811][354]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.43.47:843][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.26-17.43.47:857][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.26-17.43.47:861][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-17.43.47:861][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2024.03.26-17.43.49:703][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-17.43.49:710][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-17.43.49:710][572]PIE: New page: PIE session: MainMenu (26 Mar 2024, 17:43:49)
+[2024.03.26-17.43.49:732][572]LogPlayLevel: Creating play world package: /Game/TeamFolder/Levels/UEDPIE_0_MainMenu
+[2024.03.26-17.43.49:733][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000932s)
+[2024.03.26-17.43.49:733][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeamFolder/Levels/MainMenu.MainMenu to /Game/TeamFolder/Levels/UEDPIE_0_MainMenu.MainMenu (0.000971s)
+[2024.03.26-17.43.49:745][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.26-17.43.49:746][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.49:746][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.49:747][572]LogAIModule: Creating AISystem for world MainMenu
+[2024.03.26-17.43.49:747][572]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2024.03.26-17.43.49:747][572]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-17.43.49:747][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-17.43.49:747][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-17.43.49:748][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-17.43.49:748][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-17.43.49:748][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-17.43.49:749][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-17.43.49:768][572]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2024.03.26-17.43.49:768][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-17.43.49:768][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-17.43.49:768][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-17.43.49:768][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.03.26-17.43.49:768][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.03.26-17.43.49:771][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.03.26-17.43.49:771][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.03.26-17.43.49:771][572]LogInit: FAudioDevice initialized with ID 3.
+[2024.03.26-17.43.49:771][572]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2024.03.26-17.43.49:771][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.26-17.43.49:774][572]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-17.43.49:775][572]LogWorld: Bringing World /Game/TeamFolder/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.03.26-17.43.49
+[2024.03.26-17.43.49:775][572]LogWorld: Bringing up level for play took: 0.000298
+[2024.03.26-17.43.49:777][572]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.03.26-17.43.49:780][572]PIE: Server logged in
+[2024.03.26-17.43.49:781][572]PIE: Play in editor total start time 0.071 seconds.
+[2024.03.26-17.43.50:600][660]LogNet: Browse: /Game/TeamFolder/Levels/W1_L1
+[2024.03.26-17.43.50:600][660]LogLoad: LoadMap: /Game/TeamFolder/Levels/W1_L1
+[2024.03.26-17.43.50:600][660]LogWorld: BeginTearingDown for /Game/TeamFolder/Levels/UEDPIE_0_MainMenu
+[2024.03.26-17.43.50:601][660]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.50:601][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.50:634][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.43.50:636][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.26-17.43.50:646][660]LogAudio: Display: Audio Device (ID: 3) registered with world 'W1_L1'.
+[2024.03.26-17.43.50:646][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.43.50:646][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.43.50:647][660]LogAIModule: Creating AISystem for world W1_L1
+[2024.03.26-17.43.50:647][660]LogWorldPartition: ULevel::OnLevelLoaded(W1_L1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-17.43.50:647][660]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-17.43.50:647][660]LogWorldPartition: UWorldPartition::Initialize : World = W1_L1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.03.26-17.43.50:647][660]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-17.43.50:649][660]LogWorldPartition: Display: GenerateStreaming for 'W1_L1' started...
+[2024.03.26-17.43.50:671][660]LogWorldPartition: Display: GenerateStreaming for 'W1_L1' took 22 ms
+[2024.03.26-17.43.50:672][660]LogContentBundle: [W1_L1(Standalone)] Creating new contrainer.
+[2024.03.26-17.43.50:672][660]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 553 ms)
+[2024.03.26-17.43.50:672][660]LogPlayLevel: PIE: World Init took: (0.026486s)
+[2024.03.26-17.43.50:672][660]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-17.43.50:674][660]LogWorld: Bringing World /Game/TeamFolder/Levels/UEDPIE_0_W1_L1.W1_L1 up for play (max tick rate 0) at 2024.03.26-17.43.50
+[2024.03.26-17.43.50:675][660]LogWorld: Bringing up level for play took: 0.002253
+[2024.03.26-17.43.50:684][660]LogLoad: Took 0.083332 seconds to LoadMap(/Game/TeamFolder/Levels/W1_L1)
+[2024.03.26-17.43.52:562][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.43.52:562][814]LogWorld: BeginTearingDown for /Game/TeamFolder/Levels/UEDPIE_0_W1_L1
+[2024.03.26-17.43.52:562][814]LogWorld: UWorld::CleanupWorld for W1_L1, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.43.52:562][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.52:563][814]LogContentBundle: [W1_L1(Standalone)] Deleting container.
+[2024.03.26-17.43.52:567][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-17.43.52:570][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.43.52:581][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.43.52:581][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.26-17.43.52:581][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.26-17.43.52:583][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.26-17.43.52:590][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.26-17.43.52:806][815]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.03.26-17.44.05:518][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.44.05:584][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.26-17.44.05:589][306]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.44.05:590][306]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuC4D4228445EA6303AAF2508E6C7BF2E3.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.44.05:594][306]LogFileHelpers: Saving map 'MainMenu' took 0.041
+[2024.03.26-17.44.05:602][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.11 sec)
+[2024.03.26-17.44.05:604][306]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.44.05:604][306]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.44.44:373][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.44.44:439][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.26-17.44.44:445][601]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.44.44:446][601]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu7F1ACA954A37C9054A06D7A6922F03C6.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.44.44:450][601]LogFileHelpers: Saving map 'MainMenu' took 0.042
+[2024.03.26-17.44.44:461][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.19 sec)
+[2024.03.26-17.44.44:464][601]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.44.44:464][601]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.47.00:608][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.47.00:703][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.26-17.47.00:707][212]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.47.00:708][212]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu6898A7484FD2ECD1E19A4BBAE7205D21.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.47.00:714][212]LogFileHelpers: Saving map 'MainMenu' took 0.042
+[2024.03.26-17.47.00:722][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.31 sec)
+[2024.03.26-17.47.00:723][212]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.47.00:723][212]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.47.07:834][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.47.07:901][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.26-17.47.07:906][996]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.47.07:907][996]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuC7C8430A44DD7B5AFE6B819300001284.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.47.07:912][996]LogFileHelpers: Saving map 'MainMenu' took 0.042
+[2024.03.26-17.47.07:920][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.39 sec)
+[2024.03.26-17.47.07:922][996]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.47.07:922][996]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.47.09:540][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.26-17.47.45:364][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.47.45:433][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.26-17.47.45:438][327]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.47.45:438][327]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu1337E14E434A252ED06512A11EBA4825.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.47.45:448][327]LogFileHelpers: Saving map 'MainMenu' took 0.045
+[2024.03.26-17.47.45:457][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.49 sec)
+[2024.03.26-17.47.45:459][327]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.47.45:459][327]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.50.26:055][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.50.26:136][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.26-17.50.26:143][811]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.50.26:143][811]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuF889537547F6AD6C3BC256BB902E375B.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.50.26:150][811]LogFileHelpers: Saving map 'MainMenu' took 0.050
+[2024.03.26-17.50.26:158][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.59 sec)
+[2024.03.26-17.50.26:159][811]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.50.26:159][811]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.54.19:671][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.54.19:751][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.26-17.54.19:759][  0]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.54.19:759][  0]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu14D32F32443CB1EB7AC4EBA7371AA669.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.54.19:765][  0]LogFileHelpers: Saving map 'MainMenu' took 0.044
+[2024.03.26-17.54.19:772][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 3.69 sec)
+[2024.03.26-17.54.19:774][  0]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.54.19:774][  0]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.54.19:913][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.54.19:992][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.26-17.54.19:997][  9]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.54.19:998][  9]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuF96D7B6B41BEA40D9EB2DA9729BA8B36.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.54.20:002][  9]LogFileHelpers: Saving map 'MainMenu' took 0.040
+[2024.03.26-17.54.20:015][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.80 sec)
+[2024.03.26-17.54.20:016][  9]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.54.20:016][  9]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.57.12:666][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.57.12:767][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.26-17.57.12:776][111]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.57.12:777][111]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenuBBE5927E47D64188A1114D8C66B09132.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.57.12:786][111]LogFileHelpers: Saving map 'MainMenu' took 0.060
+[2024.03.26-17.57.12:793][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.92 sec)
+[2024.03.26-17.57.12:794][111]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.57.12:794][111]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
+[2024.03.26-17.57.13:036][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.57.13:152][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.26-17.57.13:157][125]LogSavePackage: Moving output files for package: /Game/TeamFolder/Levels/MainMenu
+[2024.03.26-17.57.13:157][125]LogSavePackage: Moving '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Saved/MainMenu942E7DF8467963E5C8FFE6BE63481C18.tmp' to '../../../../Unreal 5 Projects/platformer-3d-pixel-art/pixelart3dplatformer/Content/TeamFolder/Levels/MainMenu.umap'
+[2024.03.26-17.57.13:166][125]LogFileHelpers: Saving map 'MainMenu' took 0.045
+[2024.03.26-17.57.13:171][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 4.06 sec)
+[2024.03.26-17.57.13:172][125]AssetCheck: New page: Asset Save: MainMenu
+[2024.03.26-17.57.13:172][125]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeamFolder/Levels/MainMenu.MainMenu
